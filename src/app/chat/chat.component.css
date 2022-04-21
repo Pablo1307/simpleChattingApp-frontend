@@ -1,0 +1,21 @@
+.chat {
+    margin-top: 30rem;
+}
+
+div.chat.content {
+    border-radius: .50rem;
+    height: 40rem;
+    margin-bottom: 2rem;
+    border-color: black;
+}
+
+.card {
+    height: 100%;
+}
+
+.navbar-brand {
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+
